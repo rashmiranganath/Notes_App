@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "knex": "^0.20.10"
+    "knex": "^2.4.0"
   }
 }
